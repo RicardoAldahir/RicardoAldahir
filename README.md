@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en proyectos personales
 
-- 🌱 Actualmente estoy aprendiendo JavaScript Avanzado, Python, React.js y Data Science
+- 🌱 Actualmente estoy aprendiendo JavaScript, Python, React.js y Data Science
 
 - 👯 Estoy buscando oportunidad para unirme a un trabajo de tiempo completo como desarrollador
 
