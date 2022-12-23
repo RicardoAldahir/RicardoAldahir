@@ -7,7 +7,7 @@
 
 - 👯 Estoy buscando oportunidad para unirme a un trabajo de tiempo completo como desarrollador
 
-- 📫 Puedes contactarme en **richar_corman@outlook.com**
+- 📫 Puedes contactarme en **cormanric@gmail.com**
 
 
 <h3 align="left">Lenguajes y Herramientas utilizadas:</h3>
